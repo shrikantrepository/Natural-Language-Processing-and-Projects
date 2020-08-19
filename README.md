@@ -24,11 +24,11 @@ Datasets are provided in each of the folders above, and the solution to the prob
 * Word Embedding
 
 ## *List of algorithms that are used in these projects --*
-### *Classification:*
-* K-Nearest Neighbours
-* Naive Bayes
-### *Ensemble*:
-* Random Forest
+* *Classification:*
+  * K-Nearest Neighbours
+  * Naive Bayes
+* *Ensemble*:
+  * Random Forest
 
 
 Do ⭐ the repository, if it helped you in anyway.
