@@ -3,7 +3,7 @@
 If entire feature is in the form of text or paragraph then we can use NLP to get best accuracy of the model.*
 
 ## *Why this repository?*
-*The main purpose of making this repository is to keep all my NLP concepts and projects at one place, hence keeping my GitHub clean!*
+*The main purpose of making this repository is to keep all my NLP concepts and projects at one place, hence keeping my GitHub clean!!*
 
 ## *Overview*
 This repository consists of NLP codes and Projecs\
