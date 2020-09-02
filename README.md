@@ -31,6 +31,6 @@ Datasets are provided in each of the folders above, and the solution to the prob
   * Random Forest
 
 
-Do ⭐ the repository, if it helped you in anyway..
+Do ⭐ the repository, if it helped you in anyway...
 
 
