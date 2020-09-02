@@ -7,7 +7,7 @@ If entire feature is in the form of text or paragraph then we can use NLP to get
 
 ## *Overview*
 This repository consists of NLP codes and Projecs\
-Datasets are provided in each of the folders above, and the solution to the problem statements as well...
+Datasets are provided in each of the folders above, and the solution to the problem statements as well.
 ### *NLP Concepts and codes*
 * Tokenization - Converts paragraph into sentenses and words
 * Stemming - Help to form base form of the word
