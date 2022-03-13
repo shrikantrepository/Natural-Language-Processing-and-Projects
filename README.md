@@ -1,5 +1,5 @@
 # Natural-Language-Processing-and-Projects
-*In ML we can convert categorical features into numeric using data preprocessing techniques.\
+*In ML we can convert categorical features into numeric using data preprocessing techniques./
 If entire feature is in the form of text or paragraph then we can use NLP to get best accuracy of the model.*
 
 ## *Why this repository?*
